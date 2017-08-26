@@ -8,6 +8,10 @@ You can clone this repository in order to prepare to build and run it. No pre-bu
 
 Java 8 Runtime Environment is require to run this application. See more information [here](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
 
+Operating System runtime permissions may also be required to be changed. This can be done in the console in the parent directory where the project was cloned.
+
+    chmod -R +rwx ./nToW
+
 ## Building
 
 This application can be built using Gradle. See [here](https://gradle.org/docs/current/userguide/gradle_wrapper.html) for more information.
